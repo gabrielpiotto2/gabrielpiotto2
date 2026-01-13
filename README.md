@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://api.screenshotmachine.com/?key=ca51d4&url=https%3A%2F%2Fsua-imagem-aqui.png&dimension=1024x1024" alt="Gabriel Piotto Banner" width="100%">
-</p>
-
 <h1 align="center">Olá, eu sou o Gabriel Piotto 👋😄</h1>
 
 <p align="center">
@@ -42,19 +38,20 @@
 
 ---
 
-### 🎮 Minhas Contribuições
-<p align="center">
-  <img src="https://raw.githubusercontent.com/gabrielpiotto2/gabrielpiotto2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+### 🏅 Certificações
+
+<p align="left">
+  <a href="https://www.credly.com/badges/c33d4fba-8d49-4748-9282-43eb7d722f61?source=linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations">
+  </a>
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 🎮 Minhas Contribuições
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiotto2&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=gabrielpiotto2&theme=dracula"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiotto2&layout=compact&langs_count=7&theme=dracula"/>
+  <img src="https://raw.githubusercontent.com/gabrielpiotto2/gabrielpiotto2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
