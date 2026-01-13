@@ -20,6 +20,19 @@
 
 ---
 
+### 🏅 Certificações
+
+<p align="left">
+  <a href="https://www.credly.com/badges/c33d4fba-8d49-4748-9282-43eb7d722f61?source=linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations">
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tecnologias e Ferramentas
 
 **Linguagens e Base:**
@@ -34,19 +47,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-</p>
-
----
-
-### 🏅 Certificações
-
-<p align="left">
-  <a href="https://www.credly.com/badges/c33d4fba-8d49-4748-9282-43eb7d722f61?source=linked_in_profile" target="_blank">
-    <img src="https://img.shields.io/badge/AWS-Academy%20Cloud%20Foundations-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Academy Cloud Foundations">
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Google%20Cloud-Computing%20Foundations-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Google Cloud Computing Foundations">
-  </a>
 </p>
 
 ---
