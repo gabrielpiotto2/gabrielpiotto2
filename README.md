@@ -16,9 +16,5 @@
     <img align="center" alt="Javascript" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
  </div>
 <br>
-<div>
-   <a href="https://github.com/seu-usuário-aqui">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpiotto&layout=compact&langs_count=7&theme=transparent&locale=pt-br"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielpiotto&show_icons=true&theme=transparent&include_all_commits=true&count_private=true&locale=pt-br"/>
-</div>
+
 
